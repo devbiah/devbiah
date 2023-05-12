@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left">
-😄 Pronouns:  
+😄 &nbsp; Pronouns: She/Him
 <p>
   
 <p align="left">
