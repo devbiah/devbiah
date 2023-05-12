@@ -30,11 +30,11 @@ DevOps
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git )
 </p>
   
-<p align="right">
+<p align="left">
   <strong>💌 Entre em contato:</strong>
   
 </p>
-<p align="right">
+<p align="left">
   <a href="#" alt="beatriz_i_silva@estudante.sesisenai.org.br">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
   
