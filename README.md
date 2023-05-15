@@ -1,4 +1,4 @@
-### Oie, me chamo Emmy
+### Oie, você pode me chamar de Emmy!
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
