@@ -29,21 +29,4 @@ DevOps
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git )
 </p>
-  
-<p align="right">
-  <strong>💌 Entre em contato:</strong>
-  
-</p>
-<p align="right">
-  <a href="#" alt="beatriz_i_silva@estudante.sesisenai.org.br">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  <a href="#" alt="https://www.linkedin.com/in/beatriz-izabele-da-silva-0a9856249/">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"
-  target="_blank"></a>
-  
-  <a href="#" alt="https://www.instagram.com/kytsmi/">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"
-  target="_blank"></a>
-  
-</p>  
+   
