@@ -1,6 +1,6 @@
 ### Oie, você pode me chamar de Emmy!
 
-<img src="https://github.com/devbiah/devbiah/blob/main/000.png" min-width="400px" max-width="700px" width="700px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/devbiah/devbiah/blob/main/000.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 
 <img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
 
