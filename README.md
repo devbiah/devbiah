@@ -1,4 +1,4 @@
-### Oie, você pode me chamar de Emmy!
+### Oie, você pode me chamar de Biah!
 
 <img src="https://github.com/devbiah/devbiah/blob/main/000.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
 
