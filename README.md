@@ -9,7 +9,8 @@
 <p>
   
 <p align="left">
-🎓 &nbsp; Studying System Development SESI/SJ - SC  &#127463;&#127479;
+🎓 &nbsp; Studying System Development SESI/SJ - SC  &#x1f1e7; &#x1f1f7;
+
 <p>
   
 <p align="left">
