@@ -9,7 +9,7 @@
 <p>
   
 <p align="left">
-🎓 &nbsp; Estudando Desenvolvimento de sistemas no colégio SESI/São José - SC
+🎓 &nbsp; Estudando Desenvolvimento de sistemas no colégio SESI/São José - SC <br>
 🎓 &nbsp; Aprendizagem Back-End Intelbras
 <p>
   
