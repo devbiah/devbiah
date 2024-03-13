@@ -18,7 +18,8 @@
 
 [<img align="left" height="74px" width="74px" alt="Warpnet" src="https://play-lh.googleusercontent.com/rvNJRhfeZWuy9Vsp4nWxTHPQ-mh1Pglcny_BIBCXCfIplrvr9gFK0yJUJ61mJFqNQw">]
 **Apprentice Back-End Programeer Intelbras** \
-• Back-End \
+[**Intelbras**] Back-End 
+• 
 
 <h3>Minhas Skills </h3>
   
