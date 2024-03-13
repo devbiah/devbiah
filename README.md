@@ -10,13 +10,18 @@
   
 <p align="left">
 🎓 &nbsp; Estudando Desenvolvimento de sistemas SESI/SJ - SC <br>
-🎓 &nbsp; Aprendizagem Back-End Intelbras
 <p>
   
 <p align="left">
 🌱 &nbsp; Explorando novas tecnologias. </strong>
 <p>
-  
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://play-lh.googleusercontent.com/rvNJRhfeZWuy9Vsp4nWxTHPQ-mh1Pglcny_BIBCXCfIplrvr9gFK0yJUJ61mJFqNQw)"/>](https://www.spacex.com/)
+
+**Apprentice Back-End Programeer Intelbras** \
+• Back-End \
+Linguagens & Tecnologias: `JavaScript`,\
+
 <h3>Minhas Skills </h3>
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
