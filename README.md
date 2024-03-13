@@ -16,11 +16,10 @@
 🌱 &nbsp; Explorando novas tecnologias. </strong>
 <p>
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="[https://www.spacex.com/static/images/share.jpg](https://play-lh.googleusercontent.com/rvNJRhfeZWuy9Vsp4nWxTHPQ-mh1Pglcny_BIBCXCfIplrvr9gFK0yJUJ61mJFqNQw)"/>](https://www.spacex.com/)
-
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://play-lh.googleusercontent.com/rvNJRhfeZWuy9Vsp4nWxTHPQ-mh1Pglcny_BIBCXCfIplrvr9gFK0yJUJ61mJFqNQw"
 **Apprentice Back-End Programeer Intelbras** \
 • Back-End \
-Linguagens & Tecnologias: `JavaScript`,\
+Linguagens & Tecnologias: `JavaScript`,
 
 <h3>Minhas Skills </h3>
   
