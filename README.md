@@ -36,5 +36,5 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/fvhrsm973flzz9al1yprbrt0d)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fvhrsm973flzz9al1yprbrt0d&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fvhrsm973flzz9al1yprbrt0d&redirect=true)
 <br/>
