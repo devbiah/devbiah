@@ -31,10 +31,3 @@
   Now Playing 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=fvhrsm973flzz9al1yprbrt0d&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=fvhrsm973flzz9al1yprbrt0d&redirect=true)
-<br/>
- <strong>Social Midia </strong>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kytsmi)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/beatriz-silva-65230b2b0)[![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kytsmi) 
-</p>  
-
-
