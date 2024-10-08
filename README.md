@@ -21,4 +21,4 @@
  <strong>Toolbox :open_file_folder: </strong>
  <p/>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sqlite,vscode,nodejs,py,figma,react,vite,github,npm,ps,ae,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,sqlite,postgres,react,nodejs,figma,vite,npm,nestjs,linux,github)](https://skillicons.dev)
