@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p align="left">
-🎓 &nbsp; Studying System Development SESI/SJ - SC  &#x1f1e7;&#x1f1f7;
+🎓 &nbsp; System Development SESI/SJ - SC  &#x1f1e7;&#x1f1f7;
 
 <p>
   
