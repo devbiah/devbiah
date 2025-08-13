@@ -1,6 +1,6 @@
 ### Heyyo, you can call me Biah!
 
-<img src="https://github.com/devbiah/devbiah/blob/main/aboutme2.png" min-width="400px" max-width="500px" width="500px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/devbiah/devbiah/blob/main/aboutme2.png" min-width="100px" max-width="100px" width="260px" align="right" alt="Computador iuriCode">
 
 <img src="https://img.shields.io/static/v1?label=my git&message=devbiah&color=f8efd4&style=for-the-badge&logo=GitHub">
 
